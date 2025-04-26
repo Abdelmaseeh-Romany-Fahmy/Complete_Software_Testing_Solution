@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-26T18:58:04 EEST" name="Suite" finished-at="2025-04-26T18:58:15 EEST" duration-ms="11132">
+    <groups>
+    </groups>
+    <test started-at="2025-04-26T18:58:04 EEST" name="Test" finished-at="2025-04-26T18:58:15 EEST" duration-ms="11132">
+      <class name="tests.ContactUs_happScenario">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:tests.ContactUs_happScenario@bf1ec20]" started-at="2025-04-26T18:58:04 EEST" name="openBrowser" finished-at="2025-04-26T18:58:06 EEST" duration-ms="1510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testContactUs_validData()[pri:0, instance:tests.ContactUs_happScenario@bf1ec20]" started-at="2025-04-26T18:58:06 EEST" name="testContactUs_validData" finished-at="2025-04-26T18:58:15 EEST" duration-ms="9377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactUs_validData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:tests.ContactUs_happScenario@bf1ec20]" started-at="2025-04-26T18:58:15 EEST" name="closeBrowser" finished-at="2025-04-26T18:58:15 EEST" duration-ms="208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- tests.ContactUs_happScenario -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
