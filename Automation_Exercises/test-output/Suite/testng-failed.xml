@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test thread-count="5" name="Cart_Page(failed)">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Cart_Test">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="openBrowser"/>
+          <include name="Add_Products_To_Cart"/>
+        </methods>
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Cart_Test -->
+    </classes>
+  </test> <!-- Cart_Page(failed) -->
+</suite> <!-- Failed suite [Suite] -->

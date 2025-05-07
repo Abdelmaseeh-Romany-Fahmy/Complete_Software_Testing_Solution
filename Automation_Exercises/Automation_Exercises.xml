@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Register">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.RegisterTests"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Login">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.LoginTests"/>
+    </classes>
+  </test> <!-- Test -->
+     <test name="Home_Page">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Home_Test"/>
+    </classes>
+  </test> <!-- Test -->
+       <test name="Product_Page">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Product_Test"/>
+    </classes>
+  </test> <!-- Test -->
+         <test name="View_product_HappyScenario">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.View_product_HappyScenario"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="View_product_NegativeScenario">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario"/>
+    </classes>
+  </test> <!-- Test -->
+    <test name="Cart_Page">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Cart_Test"/>
+    </classes>
+  </test> <!-- Test -->
+      <test name="Checkout_happyScenario">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Checkout_happyScenario"/>
+    </classes>
+  </test> <!-- Test -->
+     <test name="checkout_negativeScenario">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.checkout_negativeScenario"/>
+    </classes>
+  </test> <!-- Test -->
+       <test name="Payment_Happy">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Payment_Happy"/>
+    </classes>
+  </test> <!-- Test -->
+         <test name="Payment_negitev">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.Payment_negitev"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="ContactUs_Tests">
+    <classes>
+      <class name="Automation_Project.Automation_Exercises.tests.ContactUs_Tests"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->

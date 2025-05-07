@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="14" passed="14" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-07T20:44:05 EEST" name="Suite" finished-at="2025-05-07T20:50:40 EEST" duration-ms="394775">
+    <groups>
+    </groups>
+    <test started-at="2025-05-07T20:44:05 EEST" name="Register" finished-at="2025-05-07T20:45:36 EEST" duration-ms="90309">
+      <class name="Automation_Project.Automation_Exercises.tests.RegisterTests">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.RegisterTests@5c00384f]" started-at="2025-05-07T20:44:05 EEST" name="openBrowser" finished-at="2025-05-07T20:44:10 EEST" duration-ms="4533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testAARegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:Automation_Project.Automation_Exercises.tests.RegisterTests@5c00384f]" started-at="2025-05-07T20:44:11 EEST" name="testAARegister" data-provider="RegisterData" finished-at="2025-05-07T20:45:30 EEST" duration-ms="79258" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Exercise]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AutomationExercise2021@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2002.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exercise]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Itworx]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Fostat City]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Fostat City]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[bbb]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[1.12345678E8]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAARegister -->
+        <test-method signature="testAARegister(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:Automation_Project.Automation_Exercises.tests.RegisterTests@5c00384f]" started-at="2025-05-07T20:45:30 EEST" name="testAARegister" data-provider="RegisterData" finished-at="2025-05-07T20:45:35 EEST" duration-ms="5509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Exercise]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AutomationExercise12@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10.0]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[2002.0]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Exercise]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Itworx]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Fostat City]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Fostat City]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[United States]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[aaa]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[bbb]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[1.12345678E8]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAARegister -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.RegisterTests@5c00384f]" started-at="2025-05-07T20:45:35 EEST" name="closeBrowser" finished-at="2025-05-07T20:45:36 EEST" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.RegisterTests -->
+    </test> <!-- Register -->
+    <test started-at="2025-05-07T20:45:36 EEST" name="Login" finished-at="2025-05-07T20:46:00 EEST" duration-ms="23807">
+      <class name="Automation_Project.Automation_Exercises.tests.LoginTests">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.LoginTests@3f363cf5]" started-at="2025-05-07T20:45:36 EEST" name="openBrowser" finished-at="2025-05-07T20:45:39 EEST" duration-ms="3227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testAllLoginScenario(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Automation_Project.Automation_Exercises.tests.LoginTests@3f363cf5]" started-at="2025-05-07T20:45:39 EEST" name="testAllLoginScenario" data-provider="LoginData" finished-at="2025-05-07T20:45:48 EEST" duration-ms="8517" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AutomationExercise12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1.2345678E7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[FALSE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllLoginScenario -->
+        <test-method signature="testAllLoginScenario(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:Automation_Project.Automation_Exercises.tests.LoginTests@3f363cf5]" started-at="2025-05-07T20:45:48 EEST" name="testAllLoginScenario" data-provider="LoginData" finished-at="2025-05-07T20:45:59 EEST" duration-ms="11626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AutomationExercise12@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[123456.0]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TRUE]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllLoginScenario -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.LoginTests@3f363cf5]" started-at="2025-05-07T20:45:59 EEST" name="closeBrowser" finished-at="2025-05-07T20:46:00 EEST" duration-ms="374" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.LoginTests -->
+    </test> <!-- Login -->
+    <test started-at="2025-05-07T20:46:00 EEST" name="Home_Page" finished-at="2025-05-07T20:46:59 EEST" duration-ms="59252">
+      <class name="Automation_Project.Automation_Exercises.tests.Home_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Home_Test@741b3bc3]" started-at="2025-05-07T20:46:00 EEST" name="openBrowser" finished-at="2025-05-07T20:46:01 EEST" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Home_Senario()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Home_Test@741b3bc3]" started-at="2025-05-07T20:46:01 EEST" name="Home_Senario" finished-at="2025-05-07T20:46:58 EEST" duration-ms="57316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home_Senario -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Home_Test@741b3bc3]" started-at="2025-05-07T20:46:58 EEST" name="closeBrowser" finished-at="2025-05-07T20:46:59 EEST" duration-ms="1037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Home_Test -->
+    </test> <!-- Home_Page -->
+    <test started-at="2025-05-07T20:46:59 EEST" name="Product_Page" finished-at="2025-05-07T20:47:53 EEST" duration-ms="53838">
+      <class name="Automation_Project.Automation_Exercises.tests.Product_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Product_Test@61861a29]" started-at="2025-05-07T20:46:59 EEST" name="openBrowser" finished-at="2025-05-07T20:47:02 EEST" duration-ms="3179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Product()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Product_Test@61861a29]" started-at="2025-05-07T20:47:02 EEST" name="Product" finished-at="2025-05-07T20:47:52 EEST" duration-ms="50309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Product_Test@61861a29]" started-at="2025-05-07T20:47:52 EEST" name="closeBrowser" finished-at="2025-05-07T20:47:53 EEST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Product_Test -->
+    </test> <!-- Product_Page -->
+    <test started-at="2025-05-07T20:47:53 EEST" name="View_product_HappyScenario" finished-at="2025-05-07T20:48:06 EEST" duration-ms="13572">
+      <class name="Automation_Project.Automation_Exercises.tests.View_product_HappyScenario">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_HappyScenario@455351c4]" started-at="2025-05-07T20:47:53 EEST" name="openBrowser" finished-at="2025-05-07T20:47:56 EEST" duration-ms="3575" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="view_product()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_HappyScenario@455351c4]" started-at="2025-05-07T20:47:56 EEST" name="view_product" finished-at="2025-05-07T20:48:06 EEST" duration-ms="9654" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_product -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_HappyScenario@455351c4]" started-at="2025-05-07T20:48:06 EEST" name="closeBrowser" finished-at="2025-05-07T20:48:06 EEST" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.View_product_HappyScenario -->
+    </test> <!-- View_product_HappyScenario -->
+    <test started-at="2025-05-07T20:48:06 EEST" name="View_product_NegativeScenario" finished-at="2025-05-07T20:48:19 EEST" duration-ms="13052">
+      <class name="Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario@23c388c2]" started-at="2025-05-07T20:48:06 EEST" name="openBrowser" finished-at="2025-05-07T20:48:09 EEST" duration-ms="3076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="view_product()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario@23c388c2]" started-at="2025-05-07T20:48:09 EEST" name="view_product" finished-at="2025-05-07T20:48:19 EEST" duration-ms="9596" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- view_product -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario@23c388c2]" started-at="2025-05-07T20:48:19 EEST" name="closeBrowser" finished-at="2025-05-07T20:48:19 EEST" duration-ms="376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.View_product_NegativeScenario -->
+    </test> <!-- View_product_NegativeScenario -->
+    <test started-at="2025-05-07T20:48:19 EEST" name="Cart_Page" finished-at="2025-05-07T20:48:48 EEST" duration-ms="28350">
+      <class name="Automation_Project.Automation_Exercises.tests.Cart_Test">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Cart_Test@60d84f61]" started-at="2025-05-07T20:48:19 EEST" name="openBrowser" finished-at="2025-05-07T20:48:25 EEST" duration-ms="5599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Add_Products_To_Cart()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Cart_Test@60d84f61]" started-at="2025-05-07T20:48:25 EEST" name="Add_Products_To_Cart" finished-at="2025-05-07T20:48:47 EEST" duration-ms="22309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_Products_To_Cart -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Cart_Test@60d84f61]" started-at="2025-05-07T20:48:47 EEST" name="closeBrowser" finished-at="2025-05-07T20:48:48 EEST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Cart_Test -->
+    </test> <!-- Cart_Page -->
+    <test started-at="2025-05-07T20:48:48 EEST" name="Checkout_happyScenario" finished-at="2025-05-07T20:49:12 EEST" duration-ms="23825">
+      <class name="Automation_Project.Automation_Exercises.tests.Checkout_happyScenario">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Checkout_happyScenario@1bb9aa43]" started-at="2025-05-07T20:48:48 EEST" name="openBrowser" finished-at="2025-05-07T20:48:52 EEST" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="login()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Checkout_happyScenario@1bb9aa43]" started-at="2025-05-07T20:48:52 EEST" name="login" finished-at="2025-05-07T20:49:11 EEST" duration-ms="19590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Checkout_happyScenario@1bb9aa43]" started-at="2025-05-07T20:49:11 EEST" name="closeBrowser" finished-at="2025-05-07T20:49:12 EEST" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Checkout_happyScenario -->
+    </test> <!-- Checkout_happyScenario -->
+    <test started-at="2025-05-07T20:49:12 EEST" name="checkout_negativeScenario" finished-at="2025-05-07T20:49:34 EEST" duration-ms="22587">
+      <class name="Automation_Project.Automation_Exercises.tests.checkout_negativeScenario">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.checkout_negativeScenario@17f460bb]" started-at="2025-05-07T20:49:12 EEST" name="openBrowser" finished-at="2025-05-07T20:49:15 EEST" duration-ms="3074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="CheckoutWithout_login()[pri:0, instance:Automation_Project.Automation_Exercises.tests.checkout_negativeScenario@17f460bb]" started-at="2025-05-07T20:49:15 EEST" name="CheckoutWithout_login" finished-at="2025-05-07T20:49:34 EEST" duration-ms="19173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutWithout_login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.checkout_negativeScenario@17f460bb]" started-at="2025-05-07T20:49:34 EEST" name="closeBrowser" finished-at="2025-05-07T20:49:34 EEST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.checkout_negativeScenario -->
+    </test> <!-- checkout_negativeScenario -->
+    <test started-at="2025-05-07T20:49:34 EEST" name="Payment_Happy" finished-at="2025-05-07T20:50:03 EEST" duration-ms="29210">
+      <class name="Automation_Project.Automation_Exercises.tests.Payment_Happy">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_Happy@1500e009]" started-at="2025-05-07T20:49:34 EEST" name="openBrowser" finished-at="2025-05-07T20:49:37 EEST" duration-ms="3263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Payment()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_Happy@1500e009]" started-at="2025-05-07T20:49:37 EEST" name="Payment" finished-at="2025-05-07T20:50:03 EEST" duration-ms="25521" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_Happy@1500e009]" started-at="2025-05-07T20:50:03 EEST" name="closeBrowser" finished-at="2025-05-07T20:50:03 EEST" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Payment_Happy -->
+    </test> <!-- Payment_Happy -->
+    <test started-at="2025-05-07T20:50:03 EEST" name="Payment_negitev" finished-at="2025-05-07T20:50:31 EEST" duration-ms="27758">
+      <class name="Automation_Project.Automation_Exercises.tests.Payment_negitev">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_negitev@701a32]" started-at="2025-05-07T20:50:03 EEST" name="openBrowser" finished-at="2025-05-07T20:50:07 EEST" duration-ms="3541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Payment()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_negitev@701a32]" started-at="2025-05-07T20:50:07 EEST" name="Payment" finished-at="2025-05-07T20:50:31 EEST" duration-ms="23845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Payment -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.Payment_negitev@701a32]" started-at="2025-05-07T20:50:31 EEST" name="closeBrowser" finished-at="2025-05-07T20:50:31 EEST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.Payment_negitev -->
+    </test> <!-- Payment_negitev -->
+    <test started-at="2025-05-07T20:50:31 EEST" name="ContactUs_Tests" finished-at="2025-05-07T20:50:40 EEST" duration-ms="9093">
+      <class name="Automation_Project.Automation_Exercises.tests.ContactUs_Tests">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.ContactUs_Tests@272a179c]" started-at="2025-05-07T20:50:31 EEST" name="openBrowser" finished-at="2025-05-07T20:50:34 EEST" duration-ms="2527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="testContactUs_validData(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:Automation_Project.Automation_Exercises.tests.ContactUs_Tests@272a179c]" started-at="2025-05-07T20:50:34 EEST" name="testContactUs_validData" data-provider="ContactData" finished-at="2025-05-07T20:50:40 EEST" duration-ms="6236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Automation Exercise]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AutomationExercise123@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Complain]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[My order doesn't deliver yet]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactUs_validData -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Automation_Project.Automation_Exercises.tests.ContactUs_Tests@272a179c]" started-at="2025-05-07T20:50:40 EEST" name="closeBrowser" finished-at="2025-05-07T20:50:40 EEST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation_Project.Automation_Exercises.tests.ContactUs_Tests -->
+    </test> <!-- ContactUs_Tests -->
+  </suite> <!-- Suite -->
+</testng-results>
